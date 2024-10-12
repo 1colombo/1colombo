@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil
-
+ 
  <div>
    <a href="https://github.com/1colombo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1colombo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1colombo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1colombo&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1colombo&layout=compact&langs_count=6&theme=vue"/>
 </div>
     
 <div style="display: inline_block"><br>
