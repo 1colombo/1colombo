@@ -20,6 +20,3 @@
   <a href = "jvcolombo.06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaocolombo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Meu Octocat Estiloso](https://github.com/1colombo/1colombo/blob/main/octocat-1745533271315.png?raw=true)
-
