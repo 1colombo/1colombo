@@ -1,7 +1,7 @@
 # 👨‍💻🚀 ***João Vitor Colombo***
 ***`Software Developer`*** 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas
-- 💻 Desenvolvedor de Software Backend
+- 💻 Desenvolvedor Backend
 - 📌 Em busca da primeira oportunidade de estágio para aplicar e evoluir minhas habilidades
 <br>
 <a href="https://www.linkedin.com/in/joaocolombo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
