@@ -92,3 +92,10 @@
     src="https://github-readme-stats.vercel.app/api?username=1colombo&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars,issues&locale=pt-br"
 />
 
+<br>
+
+<picture align="left" style="padding-right: 10px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1colombo/1colombo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1colombo/1colombo/output/github-contribution-grid-snake-dark.svg">
+  <img align="left" style="padding-right: 10px;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1colombo/1colombo/output/github-contribution-grid-snake.svg">
+</picture>
