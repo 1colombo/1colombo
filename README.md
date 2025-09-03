@@ -1,14 +1,19 @@
 # <p align="center">👨‍💻🚀 ***João Vitor Colombo*** </p>
 ***`Software Developer`*** 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas
-- 💻 Desenvolvedor Backend
+
+<img align="right" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb211ZHk2ZGxiZ2VqOWM5b3VqYWQwanB6bWhqNzd5cGI1ZXZpbHA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"/>
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Campinas  
+- 💻 Desenvolvedor Backend  
 - 📌 Em busca da primeira oportunidade de estágio para aplicar e evoluir minhas habilidades
+
+
 <br>
 <a href="https://www.linkedin.com/in/joaocolombo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ---
  
-### <p align="center">🤖 ***Linguagens e Tecnologias*** </p>
+## <p align="center">🤖 ***Linguagens e Tecnologias*** </p>
 
 <p align="center">
   <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -23,6 +28,7 @@
 <br>
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=1colombo&show_icons=true&theme=github_dark&include_all_commits=true&hide=stars,issues&locale=pt-br"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1colombo&layout=compact&langs_count=7&theme=github_dark"/>
 </p>
 
 <p align="center">
