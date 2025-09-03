@@ -1,5 +1,9 @@
-# <p align="center">👨‍💻🚀 ***João Vitor Colombo*** </p>
-***`Software Developer`*** 
+<h1 align="center">👨‍💻🚀 João Vitor Colombo</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=F7F7F7&background=1D1D1D2F&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Software+Developer" alt="Typing SVG" />
+</p>
+
 
 <img align="right" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb211ZHk2ZGxiZ2VqOWM5b3VqYWQwanB6bWhqNzd5cGI1ZXZpbHA3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
